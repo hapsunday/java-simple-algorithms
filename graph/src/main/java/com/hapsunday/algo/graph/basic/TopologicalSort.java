@@ -1,4 +1,4 @@
-package com.hapsunday.graph.basic;
+package com.hapsunday.algo.graph.basic;
 
 public class TopologicalSort {
     public int[] rank;
